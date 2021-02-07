@@ -11,7 +11,7 @@ public class PageRegisterTests extends BaseTest {
 	PageRegister pageRegister;
 
 	@Test(priority = 1)
-	public void loginToLinkedinWithExistAccount() {
+	public void FillingFormOpenCartPage() {
 		// This test is to verify that
 		pageRegister = new PageRegister(driver);
 
