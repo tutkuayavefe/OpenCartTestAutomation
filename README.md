@@ -10,6 +10,7 @@ In this project; Geckodriver is for macOS, if your OS is different, please downl
 - Install maven - http://maven.apache.org/install.html
 - Install IDE 
 - Launch IDE
+- Preferences - Java - Installed JREs - Give your JDK's path to here and click on OK button
 - Clone this repo
 - Create new Maven Project and click right on the project to import clonned project
 - Navigate to geckodriver file path > src/main/resources from terminal
